@@ -1,0 +1,12 @@
+{
+  "name": "the-peptide-journal-protected",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static assets and Netlify Functions ready'"
+  },
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
